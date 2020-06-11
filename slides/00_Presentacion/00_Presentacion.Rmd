@@ -1,0 +1,134 @@
+---
+title: "HIDROLOGÍA AMBIENTAL"
+subtitle: "<br/> Marvin J. Quispe Sedano "
+author: "Environmental Data Scientist <br/><br/> <img src='../img/rivergif.gif' alt='Arcgis' width='60' height='60'> <br/>"
+date: "Lima, 2020"
+output:
+  xaringan::moon_reader:
+    css: "../my-theme.css"
+    lib_dir: libs
+    nature:
+      highlightLines: true
+      highlightStyle: solarized-dark
+      countIncrementalSlides: true
+      
+---
+
+```{r child = "../setup.Rmd"}
+```
+
+```{r packages, echo=FALSE, message=FALSE, warning=FALSE}
+# AGREGAR PAQUETES A UTILIZAR
+
+```
+class: center
+
+## Acerca de mí
+
+.left-column-image[
+  <img src='img/marvin-github.png' alt='marvin-profile' width='240' height='430' class='center'>
+]
+
+.left-column[
+- Ingeniería ambiental / UNALM.
+- Consultor del International Potato Center (CIP/CGIAR) en el área de Research Informatics Unit (RIU).
+- Vicepresidente del Círculo de Investigación en Minería y Medio Ambiente (CIMMA/UNALM).
+- Docente con más de 150 horas de experiencia en el dictado de cursos de Sistemas de Información Geográfica con ArcGIS, R y Python.
+ ]
+
+---
+
+## ¿Qué es hidrología?
+
+  <img src='img/hidrologia.gif' width='100%' height='100%' class='centerimage'>
+
+---
+
+## Importancia de la hidrología
+
+  <img src='img/dam1.gif' width='100%' height='100%' class='centerimage'>
+
+---
+
+## Importancia de la hidrología
+
+  <img src='img/dam-rotura.gif' width='100%' height='100%' class='centerimage'>
+
+---
+
+## Importancia de la hidrología
+
+  <img src='img/river-change.gif' width='100%' height='100%' class='centerimage'>
+
+---
+
+## Importancia de la hidrología
+
+  <img src='img/sar-inund.gif' width='100%' height='100%' class='centerimage'>
+
+---
+
+## Importancia de la hidrología
+
+  <img src='img/sar-inund.gif' width='100%' height='100%' class='centerimage'>
+
+---
+
+class: syllabus
+
+## Contenido analítico
+
+<b> CLASE 1 : EL CICLO HIDROLÓGICO Y LA CUENCA HIDROGRÁFICA </b>
+
+-
+-
+-
+-
+
+
+
+---
+
+## Sistema de evaluación
+
+- Trabajos encargados  &nbsp;  &nbsp;| ??%
+- Examen teórico &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; | ??%
+- Proyecto final &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;| ??% 
+
+<br/>
+
+<img src='img/exam.gif' alt='exam' width='55%' height='55%' class='center'>
+
+---
+
+class: inverse, center, middle
+
+# INVESTIGACIÓN REPRODUCIBLE
+
+---
+
+## Git y GitHub
+
+- [Git](https://git-scm.com/) es el sistema de control de versiones más utilizado en el mundo.
+- [GitHub](https://github.com/) es una plataforma para alojar proyectos Git.
+
+<img src='img/git.png' alt='git-y-github' width='100%' height='100%' class='center'>
+
+---
+
+## RMarkdown
+
+- [RMarkdown](https://rmarkdown.rstudio.com/) integra paquetes de R y herramientas externas con la finalidad de proveer un marco de referencia para la construcción de documentación completamente reproducible.
+
+<img src='img/rmark-gif.gif' alt='rmarkdown' width='95%' height='950%' class='center'>
+
+---
+
+class: inverse, center, middle
+
+# GRACIAS! <br/>  <a href="mailto: marvinjqs@gmail.com"> <img alt="gmail" src="../img/gmail-logo.gif" width='20%' height='50%'> </a> 
+
+
+
+
+
