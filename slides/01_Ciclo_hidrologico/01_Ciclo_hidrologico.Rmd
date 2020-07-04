@@ -67,7 +67,12 @@ diversos procesos ocurren en forma continua.
 
 ---
 
+## El ciclo hidrológico como sistema 
 
+- Los fenómenos hidrológicos son muy complejos y es posible que nunca se lleguen a entender en su totalidad, por ello se trata de representarlos de manera simplificada mediante modelos como un sistema.
+- El ciclo hidrológico es un sistema que tiene distintos componentes, que a su vez se pueden agrupar en subsistemas más simples para ser analizados de forma separada y combinarse posteriormente.
+
+<img src='img/sistemahidr.png' width='70%' height='70%' class='centerimage'>
 
 ---
 
