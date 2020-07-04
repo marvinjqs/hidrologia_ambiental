@@ -1,0 +1,81 @@
+---
+title: "HIDROLOGÍA AMBIENTAL"
+subtitle: "<br/> Marvin J. Quispe Sedano "
+author: "Environmental Data Scientist <br/><br/> <img src='../img/rivergif.gif' alt='Arcgis' width='60' height='60'> <br/>"
+date: "Lima, 2020"
+output:
+  xaringan::moon_reader:
+    css: "../my-theme.css"
+    lib_dir: libs
+    nature:
+      highlightLines: true
+      highlightStyle: solarized-dark
+      countIncrementalSlides: true
+      
+---
+
+```{r child = "../setup.Rmd"}
+```
+
+```{r packages, echo=FALSE, message=FALSE, warning=FALSE}
+# AGREGAR PAQUETES A UTILIZAR
+
+```
+
+
+class: inverse, center, middle
+
+## CLASE 1 
+### EL CICLO HIDROLÓGICO
+
+---
+
+## Historia
+
+- Grecia y Roma: Hipótesis del ascenso subterráneo del agua de mar. Marco Vitrubio ya habla de infiltración (100 a.C.)
+- Da Vinci y Palissi (finales XV y principios XVI) ya sugieren los mecanismos de evaporación y condensación)
+- Siglo XVII se producen importantes aportes: Perrault (1674) relaciona medidas de precipitación con el caudal del Río Sena concluyendo que el volumen de la precipitación era 6 veces mayor que el volumen del río. Marriotte obtiene el caudal a partir de la sección del río y las velocidades. Halley estudia la evaporación en el Mediterráneo.
+- En el siglo XIX se generaliza el aforo de los rios y las mediciones de evaporación. Darcy estudia el flujo de agua subterránea.
+
+---
+
+## La hidrósfera
+
+- Toda el agua existente en la tierra esta presente en un espacio que se denomina hidrósfera.
+- La hidrósfera se extiende unos 15 km arriba de la atmósfera hasta 1 km por debajo de la litósfera o corteza terrestre.
+
+
+ <img src='img/hidrosfera.png' width='70%' height='70%' class='centerimage'>
+
+---
+
+## Distribución del agua en la tierra
+
+ <img src='img/distribucion-agua.png' width='90%' height='90%' class='centerimage'>
+
+---
+
+
+## El ciclo hidrológico
+
+- La distribución, circulación e interacción con el ambiente que tiene el agua dentro de la hidrósfera constituye el ciclo hidrológico.
+- El ciclo hidrológico es el foco central de la hidrología, no tiene un principio ni fin y sus
+diversos procesos ocurren en forma continua.
+
+
+ <img src='img/ciclohidrologico.png' width='75%' height='75%' class='centerimage'>
+
+---
+
+
+
+---
+
+class: inverse, center, middle
+
+# GRACIAS! <br/>  <a href="mailto: marvinjqs@gmail.com"> <img alt="gmail" src="../img/gmail-logo.gif" width='20%' height='50%'> </a> 
+
+
+
+
+
