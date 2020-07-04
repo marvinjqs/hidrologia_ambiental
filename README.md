@@ -27,4 +27,4 @@ El estudio de las ciencias hídricas trata todas las fases del agua sobre la tie
 
 | 🌏 CLASE 1: [EL CICLO HIDROLÓGICO](https://marvinjonathcn.github.io/hidrologia_ambiental/slides/01_Ciclo_hidrologico/01_Ciclo_hidrologico.html)  &nbsp;  |
 |:---------------------------------------------------------------|
-| &nbsp;  &nbsp;  &nbsp;  &nbsp;• ¿Qué son los GIS? |
+
