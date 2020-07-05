@@ -1,0 +1,88 @@
+---
+title: "HIDROLOGÍA AMBIENTAL"
+subtitle: "<br/> Marvin J. Quispe Sedano "
+author: "Environmental Data Scientist <br/><br/> <img src='../img/rivergif.gif' alt='Arcgis' width='60' height='60'> <br/>"
+date: "Lima, 2020"
+output:
+  xaringan::moon_reader:
+    css: "../my-theme.css"
+    lib_dir: libs
+    nature:
+      highlightLines: true
+      highlightStyle: solarized-dark
+      countIncrementalSlides: true
+      
+---
+
+```{r child = "../setup.Rmd"}
+```
+
+```{r packages, echo=FALSE, message=FALSE, warning=FALSE}
+# AGREGAR PAQUETES A UTILIZAR
+
+```
+
+
+class: inverse, center, middle
+
+## CLASE 2 
+### LA CUENCA HIDROGRÁFICA
+
+---
+
+## Definición 
+
+- Una cuenca es una zona de la superficie terrestre en donde (si fuera impermeable) las gotas de lluvia que caen sobre ella tienden a ser drenadas por el sistema de corrientes hacia un mismo punto de salida (Aparicio, 1989)
+
+
+ <img src='img/cuenca-img.png' width='90%' height='90%' class='centerimage'>
+ 
+---
+
+## Tipos de cuenca
+
+- Desde el punto de vista de su salida, existen dos tipos de cuencas:
+
+
+ <img src='img/tipos-cuenca.png' width='100%' height='100%' class='centerimage'>
+
+
+---
+
+## Características de una cuenca
+
+Se pueden clasificar las características de una cuenca en dos tipos:
+
+- Las que condicionan el volumen de escurrimiento (Ejm. área)
+- Las que condicionan la velocidad de respuesta (Ejm. pendiente)
+
+
+ <img src='img/caract-cuenca.png' width='90%' height='90%' class='centerimage'>
+ 
+---
+
+## Corriente principal y tributarios
+
+- Es la corriente o flujo que pasa por la salida de la cuenca.
+- La definición "principal" solo aplica a cuencas de tipo exorreicas.
+- Todo flujo o corriente dentro de una cuenca que no sea principal.
+
+
+ <img src='img/principalytributarios.png' width='70%' height='70%' class='centerimage'>
+ 
+---
+
+## Corrientes tributarias
+
+- Todo flujo o corriente dentro de una cuenca que no sea principal.
+
+
+---
+class: inverse, center, middle
+
+# GRACIAS! <br/>  <a href="mailto: marvinjqs@gmail.com"> <img alt="gmail" src="../img/gmail-logo.gif" width='20%' height='50%'> </a> 
+
+
+
+
+
