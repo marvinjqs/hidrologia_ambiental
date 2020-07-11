@@ -86,7 +86,21 @@ Se pueden clasificar las características de una cuenca en dos tipos:
 class: inverse, center, middle
 
 
-## PARÁMETROS GEOMORFOLÓGICOS
+## ANÁLISIS MORFOLÓGICO DE LA CUENCA
+
+---
+
+## Área 
+
+- Es una de las características más importantes de una cuenca.
+- Se encuentra delimitada por una linea imaginaria denominada divisoria de aguas o "parteaguas".
+- Las proyecciones 2D modifican el tamaño original de la cuenca, dificultando algunas mediciones. Se puede calcular el área real de una cuenca conociendo su pendiente media : $A_r = A_m / cos(\alpha)$
+
+
+ <img src='img/area-cuenca.png' width='60%' height='60%' class='centerimage'>
+
+
+---
 
 
 
