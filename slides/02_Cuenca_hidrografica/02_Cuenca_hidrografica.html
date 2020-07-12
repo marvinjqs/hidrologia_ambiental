@@ -105,28 +105,163 @@ class: inverse, center, middle
 
 ---
 
-## Área 
+## 1. Área 
 
 - Es una de las características más importantes de una cuenca.
 - Se encuentra delimitada por una linea imaginaria denominada divisoria de aguas o "parteaguas".
 - Las proyecciones 2D modifican el tamaño original de la cuenca, dificultando algunas mediciones. Se puede calcular el área real de una cuenca conociendo su pendiente media : `\(A_r = A_m / cos(\alpha)\)`
 
 
- &lt;img src='img/area-cuenca.png' width='60%' height='60%' class='centerimage'&gt;
+ &lt;img src='img/area-cuenca.png' width='100%' height='100%' class='centerimage'&gt;
 
 
 ---
 
 
+## 2. Perímetro
+
+- Se define como la proyección horizontal de la divisoria de agua.
+
+
+ &lt;img src='img/cuenca-perimetro.png' width='70%' height='70%' class='centerimage'&gt;
 
 ---
 
+## 3. Forma 
+
+- La forma de la cuenca condiciona la velocidad del escurrimiento superficial, debido a ello interviene de manera importante en las características del hidrograma de descarga.
+
+
+ &lt;img src='img/cuenca-forma.png' width='50%' height='50%' class='centerimage'&gt;
+ 
+---
+
+### 3.1. Coeficiente de compacidad (Kc)
+
+- Se define como la relación adimensional entre el perímetro de la cuenca (P) y el perímetro de una circunferencia con un área igual al de la cuenca (Pc) en Km2.
+
+
+$$
+`\begin{aligned}
+K_c = \frac{P}{P_c} = \frac{0.282*P}{\sqrt[]{A}}
+\end{aligned}`
+$$
+
+
+ &lt;img src='img/kc-img.png' width='100%' height='100%' class='centerimage'&gt;
+
+---
+
+### 3.2. Relación de elongación (Re)
+
+- Se define como la relación entre el diámetro de un círculo con un área igual al de la cuenca (D) y la longitud de la recta más grande trazada desde el punto de desfogue hasta la divisioria que asu vez es paralela al cauce principal (Lc) .
+
+
+$$
+`\begin{aligned}
+R_e = \frac{D}{Lc} = \frac{1.1284*\sqrt[]{A}}{L_c}
+\end{aligned}`
+$$
+
+
+ &lt;img src='img/re-tabla.png' width='60%' height='60%' class='centerimage'&gt;
+
+
+---
+
+### 3.3. Factor de forma (Ff)
+
+- Se define como la relación entre el ancho promedio de la cuenca (A) y Lc.
+
+
+$$
+`\begin{aligned}
+F_f = \frac{A}{L_c ^ 2}
+\end{aligned}`
+$$
+
+
+ &lt;img src='img/factor-forma.png' width='70%' height='70%' class='centerimage'&gt;
+
+
+---
+
+## 4. Curva hipsométrica 
+
+- Se define como la representación gráfica de la relación entre la elevación y un porcentaje de la cuenca que existe por debajo o encima de una cota determinada.
+- La topografía o relieve puede tener más influencia que la forma en la respuesta hidrológica de la cuenca. Por ello es común representar el relieve con la curva hipsométrica.
+
+
+
+ &lt;img src='img/curva-hip.png' width='75%' height='75%' class='centerimage'&gt;
+
+
+---
+
+## 5. Elevación media (Hm)
+
+- Tiene una gran influencia en el régimen hidrológico de la cuenca, debido a su relación con variables meteorólogicas.
+- Se puede estimar a partir de la curva hipsométrica.
+
+$$
+`\begin{aligned}
+H_m = \frac{\sum Hi*Ai}{A_t}
+\end{aligned}`
+$$
+
+---
+
+## 6. Pendiente media 
+
+- Es importante debido a su relación entre la infiltración y la escorrentía.
+- Existen diversos criterios para calcularla, siendo uno de ellos el criterio de J.W. Alvord.
+- Criterio de Alvord: L = longitud total de las curvas de nivel en la cuenca, D = desnivel constante entre las curvas de nivel y A = área de la cuenca
+
+
+$$
+`\begin{aligned}
+S = \frac{D*L}{A}
+\end{aligned}`
+$$
+
+
+---
+
+## 7. Red de drenaje
+
+- Se llama red de drenaje de una cuenca, al sistema de cauces por el que fluyen los escurrimientos superficiales, subsuperficiales y subterráneos, de manera temporal o permanente (Campos, 1998).
+
+
+
+ &lt;img src='img/drenajes.png' width='90%' height='90%' class='centerimage'&gt;
+ 
+---
+
+
+## 7.1. Tipos de corrientes
+
+Las corrientes se clasifican en tres tipos :
+
+- Perennes:  Conducen agua todo el tiempo excepto durante las sequías extremas.
+- Intermitente: Lleva agua la mayor parte del tiempo, principalmente en épocas de lluvia.
+- Efímera: Solo conduce agua durante las lluvias o inmediatamente después de éstas.
+
+---
+
+## 7.2. Orden de las corrientes
+
+
+
+
+
+
+---
 
 class: inverse, center, middle
 
 # GRACIAS! &lt;br/&gt;  &lt;a href="mailto: marvinjqs@gmail.com"&gt; &lt;img alt="gmail" src="../img/gmail-logo.gif" width='20%' height='50%'&gt; &lt;/a&gt; 
 
-
+---
 
 
 
