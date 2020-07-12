@@ -209,6 +209,7 @@ S = \frac{D*L}{A}
 \end{aligned}
 $$
 
+<img src='img/pendiente-media.png' width='60%' height='60%' class='centerimage'>
 
 ---
 
@@ -218,7 +219,7 @@ $$
 
 
 
- <img src='img/drenajes.png' width='90%' height='90%' class='centerimage'>
+ <img src='img/drenajes.png' width='80%' height='80%' class='centerimage'>
  
 ---
 
@@ -235,10 +236,11 @@ Las corrientes se clasifican en tres tipos :
 
 ## 7.2. Orden de las corrientes
 
+- El orden de las corrientes es una clasificación que refleja el grado de ramificación o bifurcación dentro de una cuenca (Campos, 1998).
+- Existen diversas metodologías para determinar el orden de las corrientes, siendo las más populares las metodologías de Strahler y la de Shreve.
 
 
-
-
+ <img src='img/orden-rios.png' width='80%' height='80%' class='centerimage'>
 
 ---
 
