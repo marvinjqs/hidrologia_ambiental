@@ -86,7 +86,7 @@ Se pueden clasificar las características de una cuenca en dos tipos:
 class: inverse, center, middle
 
 
-## ANÁLISIS MORFOLÓGICO DE LA CUENCA
+## ANÁLISIS MORFOMÉTRICO DE LA CUENCA
 
 ---
 
