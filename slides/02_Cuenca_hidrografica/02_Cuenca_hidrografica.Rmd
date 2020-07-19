@@ -209,7 +209,7 @@ S = \frac{D*L}{A}
 \end{aligned}
 $$
 
-<img src='img/pendiente-media.png' width='60%' height='60%' class='centerimage'>
+
 
 ---
 
@@ -224,7 +224,7 @@ $$
 ---
 
 
-## 7.1. Tipos de corrientes
+### 7.1. Tipos de corrientes
 
 Las corrientes se clasifican en tres tipos :
 
@@ -234,7 +234,7 @@ Las corrientes se clasifican en tres tipos :
 
 ---
 
-## 7.2. Orden de las corrientes
+### 7.2. Orden de las corrientes
 
 - El orden de las corrientes es una clasificación que refleja el grado de ramificación o bifurcación dentro de una cuenca (Campos, 1998).
 - Existen diversas metodologías para determinar el orden de las corrientes, siendo las más populares las metodologías de Strahler y la de Shreve.
@@ -244,11 +244,37 @@ Las corrientes se clasifican en tres tipos :
 
 ---
 
+### 7.3. Densidad de drenaje
+
+- Se define como la relación entre la longitud total de las corrientes (Li) y el área total de la cuenca (A).
+- Su valor está controlado por las características litológicas (especialmente la permeabilidad) y estructurales del suelo, el tipo y densidad de vegetación y por factores climáticos.
+
+
+$$
+\begin{aligned}
+D_d = \frac{\sum L_i}{A}
+\end{aligned}
+$$
+
+ <img src='img/densidad-drenaje.png' width='70%' height='70%' class='centerimage'>
+
+---
+
+## 8. Cauce principal
+
+- El cauce o colector principal es aquel que pasa por el punto de salida de la cuenca, siendo alimentado por cauces secundarios.
+- Su estudio es importante por ello se evaluan variables como longitud total, elevación media, pendiente media, entre otros.
+
+<img src='img/pendiente-media.png' width='70%' height='70%' class='centerimage'>
+
+---
+
+
 class: inverse, center, middle
 
 # GRACIAS! <br/>  <a href="mailto: marvinjqs@gmail.com"> <img alt="gmail" src="../img/gmail-logo.gif" width='20%' height='50%'> </a> 
 
----
+
 
 
 
