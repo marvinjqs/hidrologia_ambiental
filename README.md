@@ -1,14 +1,14 @@
 <h2 align="center">
-  <a href="https://marvinjonathcn.github.io/hidrologia_ambiental/slides/00_Presentacion/00_Presentacion.html" title="Hidrologia-ambiental">
+  <a href="https://marvinjqs.github.io/hidrologia_ambiental/slides/00_Presentacion/00_Presentacion.html" title="Hidrologia-ambiental">
     <img alt="Logo-hidrologia" src="https://i.ibb.co/XWSwLZ4/Imagen1.png" width="200px" height="200px" />
   </a>
   <br /><br />
   HIDROLOGÍA AMBIENTAL </h2>
 
-<div align="center"><a href="https://www.linkedin.com/in/marvinjqs/"><img alt="@marvinjonathcn" 
+<div align="center"><a href="https://www.linkedin.com/in/marvinjqs/"><img alt="@marvinjqs" 
 src="https://img.shields.io/badge/Autor-Marvin%20J.%20Quispe-lightgrey" /></a>
 <a href="https://opensource.org/licenses/MIT/"><img alt="Licencia MIT" 
-src="https://img.shields.io/github/license/marvinjonathcn/curso_arcgis_basico?label=License" />
+src="https://img.shields.io/github/license/marvinjqs/curso_arcgis_basico?label=License" />
 </a>  
 <br><a href="https://github.com/Template-Latex/Template-Tesis/"><img alt="Template-Tesis" src="https://latex.ppizarror.com/res/badges/tesis.svg" /></a>
 
@@ -20,13 +20,13 @@ El estudio de las ciencias hídricas trata todas las fases del agua sobre la tie
 
 | Nombre                  | Github        |  Email         |
 |:--------------------    |:--------------| :--------------|
-| Marvin j. Quispe Sedano | [@marvinjonathcn](https://github.com/marvinjonathcn)| marvinjqs@gmail.com |
+| Marvin j. Quispe Sedano | [@marvinjqs](https://github.com/marvinjqs)| marvinjqs@gmail.com |
 
 
 ### TEMARIO
 
-| 🌏 CLASE 1: [EL CICLO HIDROLÓGICO](https://marvinjonathcn.github.io/hidrologia_ambiental/slides/01_Ciclo_hidrologico/01_Ciclo_hidrologico.html)  &nbsp;  |
+| 🌏 CLASE 1: [EL CICLO HIDROLÓGICO](https://marvinjqs.github.io/hidrologia_ambiental/slides/01_Ciclo_hidrologico/01_Ciclo_hidrologico.html)  &nbsp;  |
 |:---------------------------------------------------------------|
 
-| 🌏 CLASE 2: [LA CUENCA HIDROGRÁFICA](https://marvinjonathcn.github.io/hidrologia_ambiental/slides/02_Cuenca_hidrografica/02_Cuenca_hidrografica.html)  &nbsp;  |
+| 🌏 CLASE 2: [LA CUENCA HIDROGRÁFICA](https://marvinjqs.github.io/hidrologia_ambiental/slides/02_Cuenca_hidrografica/02_Cuenca_hidrografica.html)  &nbsp;  |
 |:---------------------------------------------------------------|
